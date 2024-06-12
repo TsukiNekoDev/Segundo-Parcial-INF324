@@ -1,0 +1,16 @@
+C:\Users\Gisela\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Gisela\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Gisela\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Gisela\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Gisela\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\INF324-SegundoParcial.csprojResolveAssemblyReference.cache
+C:\Users\Gisela\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Gisela\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Gisela\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\INF324-SegundoParcial.csproj.GenerateResource.Cache
+C:\Users\Gisela\Documents\Visual Studio 2012\Projects\SegundoPar-Inf324\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Gisela\Documents\Visual Studio 2012\Projects\SegundoPar-Inf324\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Gisela\Documents\Visual Studio 2012\Projects\SegundoPar-Inf324\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Gisela\Documents\Visual Studio 2012\Projects\SegundoPar-Inf324\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Gisela\Documents\Visual Studio 2012\Projects\SegundoPar-Inf324\WindowsFormsApplication2\obj\Debug\INF324-SegundoParcial.csprojResolveAssemblyReference.cache
+C:\Users\Gisela\Documents\Visual Studio 2012\Projects\SegundoPar-Inf324\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Gisela\Documents\Visual Studio 2012\Projects\SegundoPar-Inf324\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Gisela\Documents\Visual Studio 2012\Projects\SegundoPar-Inf324\WindowsFormsApplication2\obj\Debug\INF324-SegundoParcial.csproj.GenerateResource.Cache
